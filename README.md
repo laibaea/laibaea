@@ -1,10 +1,10 @@
 <p align="center">
- <img src="https://i.pinimg.com/564x/14/81/8d/14818db48019f9961ba29a9b7c2911bf.jpg" alt="Image 1" width="130" height="130" />&nbsp;&nbsp;&nbsp;
-  <img src="https://i.pinimg.com/236x/42/fb/da/42fbda81c43445d0d77cdcf8feb9fe1b.jpg" alt="Image 2" width="130" height="130" />&nbsp;&nbsp;&nbsp;
-  <img src="https://i.pinimg.com/564x/15/e9/be/15e9bec59415e5fecc24b22445337734.jpg" alt="Image 3" width="130" height="130" />&nbsp;&nbsp;&nbsp;
-  <img src="https://i.pinimg.com/564x/94/67/92/946792a211d97528a47069aa7af84032.jpg" alt="Image 4" width="130" height="130" />&nbsp;&nbsp;&nbsp;
- <img src="https://i.pinimg.com/736x/bd/80/ad/bd80ad11e964c28079678b217055a0fd.jpg" alt="Image 5" width="130" height="130" />&nbsp;&nbsp;&nbsp;
-  <img src="https://i.pinimg.com/564x/9d/ab/bd/9dabbd19f363aa4224759d63c96fa464.jpg" alt="Image 6" width="130" height="130" />
+ <img src="https://i.pinimg.com/564x/14/81/8d/14818db48019f9961ba29a9b7c2911bf.jpg" alt="Image 1" width="120" height="120" />&nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/236x/42/fb/da/42fbda81c43445d0d77cdcf8feb9fe1b.jpg" alt="Image 2" width="120" height="120" />&nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/564x/15/e9/be/15e9bec59415e5fecc24b22445337734.jpg" alt="Image 3" width="120" height="120" />&nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/564x/94/67/92/946792a211d97528a47069aa7af84032.jpg" alt="Image 4" width="120" height="120" />&nbsp;&nbsp;&nbsp;
+ <img src="https://i.pinimg.com/736x/bd/80/ad/bd80ad11e964c28079678b217055a0fd.jpg" alt="Image 5" width="120" height="120" />&nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/564x/9d/ab/bd/9dabbd19f363aa4224759d63c96fa464.jpg" alt="Image 6" width="120" height="120" />
 </p>
 
 
